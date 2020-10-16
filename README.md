@@ -1,2 +1,2 @@
 # CrazyEvents
-This is a simple Javascript project
+This is a simple CS project
